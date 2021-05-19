@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @haeeloworld22
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning how to oprate indiffrent os
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Anybody
+- 📫 How to reach me satyamkarki0@gmail.com
 
 <!---
 haeeloworld22/haeeloworld22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
